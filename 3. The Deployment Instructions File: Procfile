@@ -1,0 +1,3 @@
+# Save this code as Procfile
+
+web: streamlit run app.py
