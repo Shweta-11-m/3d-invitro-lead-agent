@@ -1,0 +1,4 @@
+# Save this code as requirements.txt
+
+streamlit
+pandas
